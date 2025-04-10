@@ -17,4 +17,7 @@ pip install -r requirements.txt
 
 ## Run the App
 
+```
 python face_detection.py
+
+```
