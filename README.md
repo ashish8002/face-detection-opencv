@@ -10,7 +10,10 @@ This project uses OpenCV and Haar Cascades to detect faces from a webcam in real
 ## Installation
 
 ```bash
+
 pip install -r requirements.txt
+
+```
 
 ## Run the App
 
